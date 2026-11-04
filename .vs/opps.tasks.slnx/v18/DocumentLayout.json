@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\class tasks\\class task\\opps.tasks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8A3F7B-0276-C371-47F9-F95BD715E7C4}|opps.tasks\\opps.tasks.csproj|c:\\users\\user\\desktop\\class tasks\\class task\\opps.tasks\\opps.tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8A3F7B-0276-C371-47F9-F95BD715E7C4}|opps.tasks\\opps.tasks.csproj|solutionrelative:opps.tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8A3F7B-0276-C371-47F9-F95BD715E7C4}|opps.tasks\\opps.tasks.csproj|c:\\users\\user\\desktop\\class tasks\\class task\\opps.tasks\\opps.tasks\\data\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8A3F7B-0276-C371-47F9-F95BD715E7C4}|opps.tasks\\opps.tasks.csproj|solutionrelative:opps.tasks\\data\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8A3F7B-0276-C371-47F9-F95BD715E7C4}|opps.tasks\\opps.tasks.csproj|c:\\users\\user\\desktop\\class tasks\\class task\\opps.tasks\\opps.tasks\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8A3F7B-0276-C371-47F9-F95BD715E7C4}|opps.tasks\\opps.tasks.csproj|solutionrelative:opps.tasks\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8A3F7B-0276-C371-47F9-F95BD715E7C4}|opps.tasks\\opps.tasks.csproj|c:\\users\\user\\desktop\\class tasks\\class task\\opps.tasks\\opps.tasks\\student.controllers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8A3F7B-0276-C371-47F9-F95BD715E7C4}|opps.tasks\\opps.tasks.csproj|solutionrelative:opps.tasks\\student.controllers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8A3F7B-0276-C371-47F9-F95BD715E7C4}|opps.tasks\\opps.tasks.csproj|c:\\users\\user\\desktop\\class tasks\\class task\\opps.tasks\\opps.tasks\\services\\student.service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8A3F7B-0276-C371-47F9-F95BD715E7C4}|opps.tasks\\opps.tasks.csproj|solutionrelative:opps.tasks\\services\\student.service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8A3F7B-0276-C371-47F9-F95BD715E7C4}|opps.tasks\\opps.tasks.csproj|c:\\users\\user\\desktop\\class tasks\\class task\\opps.tasks\\opps.tasks\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8A3F7B-0276-C371-47F9-F95BD715E7C4}|opps.tasks\\opps.tasks.csproj|solutionrelative:opps.tasks\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\class tasks\\class task\\opps.tasks\\opps.tasks\\Data\\Student.cs",
+              "RelativeDocumentMoniker": "opps.tasks\\Data\\Student.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\class tasks\\class task\\opps.tasks\\opps.tasks\\Data\\Student.cs",
+              "RelativeToolTip": "opps.tasks\\Data\\Student.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T17:27:28.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\class tasks\\class task\\opps.tasks\\opps.tasks\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "opps.tasks\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\class tasks\\class task\\opps.tasks\\opps.tasks\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "opps.tasks\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T17:22:45.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.Controllers.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\class tasks\\class task\\opps.tasks\\opps.tasks\\Student.Controllers.cs",
+              "RelativeDocumentMoniker": "opps.tasks\\Student.Controllers.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\class tasks\\class task\\opps.tasks\\opps.tasks\\Student.Controllers.cs",
+              "RelativeToolTip": "opps.tasks\\Student.Controllers.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAACgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T17:21:31.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.Service.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\class tasks\\class task\\opps.tasks\\opps.tasks\\services\\Student.Service.cs",
+              "RelativeDocumentMoniker": "opps.tasks\\services\\Student.Service.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\class tasks\\class task\\opps.tasks\\opps.tasks\\services\\Student.Service.cs",
+              "RelativeToolTip": "opps.tasks\\services\\Student.Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T17:20:33.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Appdbcontext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\class tasks\\class task\\opps.tasks\\opps.tasks\\Data\\Appdbcontext.cs",
+              "RelativeDocumentMoniker": "opps.tasks\\Data\\Appdbcontext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\class tasks\\class task\\opps.tasks\\opps.tasks\\Data\\Appdbcontext.cs",
+              "RelativeToolTip": "opps.tasks\\Data\\Appdbcontext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T17:19:46.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\class tasks\\class task\\opps.tasks\\opps.tasks\\Program.cs",
+              "RelativeDocumentMoniker": "opps.tasks\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\class tasks\\class task\\opps.tasks\\opps.tasks\\Program.cs",
+              "RelativeToolTip": "opps.tasks\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T17:18:54.953Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

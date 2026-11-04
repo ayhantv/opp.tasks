@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\class tasks\class task\opps.tasks\opps.tasks\bin\Debug\net10.0\opps.tasks.exe
+C:\Users\User\Desktop\class tasks\class task\opps.tasks\opps.tasks\bin\Debug\net10.0\opps.tasks.deps.json
+C:\Users\User\Desktop\class tasks\class task\opps.tasks\opps.tasks\bin\Debug\net10.0\opps.tasks.runtimeconfig.json
+C:\Users\User\Desktop\class tasks\class task\opps.tasks\opps.tasks\bin\Debug\net10.0\opps.tasks.dll
+C:\Users\User\Desktop\class tasks\class task\opps.tasks\opps.tasks\bin\Debug\net10.0\opps.tasks.pdb
+C:\Users\User\Desktop\class tasks\class task\opps.tasks\opps.tasks\obj\Debug\net10.0\opps.tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\class tasks\class task\opps.tasks\opps.tasks\obj\Debug\net10.0\opps.tasks.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\class tasks\class task\opps.tasks\opps.tasks\obj\Debug\net10.0\opps.tasks.AssemblyInfo.cs
+C:\Users\User\Desktop\class tasks\class task\opps.tasks\opps.tasks\obj\Debug\net10.0\opps.tasks.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\class tasks\class task\opps.tasks\opps.tasks\obj\Debug\net10.0\opps.tasks.dll
+C:\Users\User\Desktop\class tasks\class task\opps.tasks\opps.tasks\obj\Debug\net10.0\refint\opps.tasks.dll
+C:\Users\User\Desktop\class tasks\class task\opps.tasks\opps.tasks\obj\Debug\net10.0\opps.tasks.pdb
+C:\Users\User\Desktop\class tasks\class task\opps.tasks\opps.tasks\obj\Debug\net10.0\opps.tasks.genruntimeconfig.cache
+C:\Users\User\Desktop\class tasks\class task\opps.tasks\opps.tasks\obj\Debug\net10.0\ref\opps.tasks.dll
+C:\Users\User\Desktop\class tasks\class task\opps.tasks\opps.tasks\obj\Debug\net10.0\opps.tasks.csproj.Up2Date
